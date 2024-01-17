@@ -1,0 +1,48 @@
+1705451126270	geckodriver	INFO	Listening on 127.0.0.1:56700
+1705451129349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\saput\\AppData\\Local\\Temp\\rust_mozprofileQAHM7B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705451129756	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705451129850	Marionette	INFO	Listening on port 56708
+WebDriver BiDi listening on ws://127.0.0.1:56701
+Read port: 56708
+1705451130114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56701/devtools/browser/35c6a765-37a7-4af0-9dec-efb19a783c5f
+JavaScript error: https://sepatucompass.com/login, line 15: SyntaxError: expected expression, got '&'
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript error: https://sepatucompass.com/login, line 15: SyntaxError: expected expression, got '&'
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript error: https://sepatucompass.com/login, line 15: SyntaxError: expected expression, got '&'
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+JavaScript warning: https://sepatucompass.com/_next/static/chunks/d174a037f681aae20b502a26cbff1c3e9bfde3f3.f30081ec4c818a77dd7b.js, line 1: unreachable code after return statement
+1705451159787	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c, line 307: Script terminated by timeout at:
+El@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:307:640
+dG@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:538:697
+aa.Rm@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:541:186
+aa.Qm/</<@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:541:118
+Sj@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:279:137
+fk@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:282:350
+aa.Qm/<@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:541:104
+c@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:388:169
+ks@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:389:269
+aa.Qm@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:541:90
+c@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:560:678
+Zp@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:360:298
+Yp.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:363:266
+Yp.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:361:207
+Rp@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:358:789
+vG/<@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:561:178
+aa.Pk/<@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:511:126
+aa.Pk/c/<@https://www.googletagmanager.com/gtag/js?id=G-V3KSPHDZ6F&l=dataLayer&cx=c:510:420
+
+1705451190405	Marionette	INFO	Stopped listening on port 56708
+Dynamically enable window occlusion 1
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
